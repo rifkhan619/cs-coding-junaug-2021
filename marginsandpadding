@@ -1,0 +1,17 @@
+Margins (external spacing)
+.mb 01
+
+
+Padding (Internal spacing)
+.p 01
+
+.p x-1
+.p y-1
+
+Display
+    block
+    inline
+    inline-block
+    table
+    grid
+    flex
